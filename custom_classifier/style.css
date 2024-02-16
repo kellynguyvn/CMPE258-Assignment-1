@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#commentInput {
+    margin-top: 20px;
+}
+
+#classifyBtn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#classificationResult {
+    margin-top: 20px;
+    font-size: 20px;
+}

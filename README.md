@@ -6,10 +6,6 @@ Building models using teachable machines and on device ML
 1) No code models:  Build one image model, one pose model, one audio model using teachable machines to showcase in class - demo in class your innovative work. there are lot of examples to inspire from https://www.youtube.com/playlist?list=PLQY2H8rRoyvzSZZuF0qJpoJxZR1NgzcZwLinks
 you can demonstrate and submit to teachable machines group for acceptance to showcase your work
 
-Image Model <br>
-Pose Model: https://teachablemachine.withgoogle.com/models/EIln0Scux/ <br>
-Audio Model
-
 3) On device models with no customization : Build an app demonstrating mediapipe ondevice model capability on android - Hint: inspire from https://codelabs.developers.google.com/mp-image-generation-basic-android#0
 
 4) Custom model training blackbox way using transfer learning with mlkit: build an android app using automl vision app - Hint : inspire from https://codelabs.developers.google.com/codelabs/automl-vision-edge-in-mlkit#0
@@ -19,4 +15,6 @@ Audio Model
 6) Custom classifier deployed on web :  build a comment classifier web app with custom training data - Hint : https://developers.google.com/learn/pathways/on-device-ml-6
 
 7) Embedding based ml app deployed on phone : Build a product search app using embeddings and index out of box - Hint: https://developers.google.com/learn/pathways/on-device-ml-3
+
+### Video Demonstration
 
