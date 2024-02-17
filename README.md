@@ -17,4 +17,4 @@ you can demonstrate and submit to teachable machines group for acceptance to sho
 7) Embedding based ml app deployed on phone : Build a product search app using embeddings and index out of box - Hint: https://developers.google.com/learn/pathways/on-device-ml-3
 
 ### Video Demonstration
-
+https://drive.google.com/drive/folders/134gBbUZRrryeYALpap9lvm2HEAWHcAzl?usp=drive_link
